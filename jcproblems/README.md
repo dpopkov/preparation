@@ -2,6 +2,9 @@ Java Coding Problems
 ====================
 
 ### 0 - Strings, Numbers, and Math
+1. Counting duplicate characters.
+[code](src/main/java/learn/core/jcproblems/p01stringsnumbers/P01CountDupes.java)  
+Issues: methods of interface __Map__, __Stream API__ (return and re-implement using FP)
 
 ### 1 - Objects, Immutability, and Switch Expressions
 
