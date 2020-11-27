@@ -9,12 +9,6 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>jcproblems</artifactId>
+    <artifactId>effjava</artifactId>
 
-    <dependencies>
-        <dependency>
-            <groupId>org.junit.vintage</groupId>
-            <artifactId>junit-vintage-engine</artifactId>
-        </dependency>
-    </dependencies>
 </project>
