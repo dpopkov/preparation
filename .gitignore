@@ -29,5 +29,8 @@ hs_err_pid*
 .idea/
 *.iml
 
-# Files that need not to be commeted
+# Tmp code files not to commit
+/**/Tmp*.java
+
+# Files that need not to be commited
 NOT-FOR-COMMIT*.txt
