@@ -10,6 +10,8 @@ src/main/java/learn/effjava/p02createdestroy/item002builder)
 * Item 3: [Enforce the singleton property with a private constructor or an enum type](
 src/main/java/learn/effjava/p02createdestroy/item003singleton)
 * Item 4: Enforce non-instantiability with a private constructor
-* Item 5: Prefer dependency injection to hardwiring resources
+* Item 5: Prefer dependency injection to hard-wiring resources
 * Item 6: Avoid creating unnecessary objects
 * Item 7: Eliminate obsolete object references
+* Item 8: [Avoid finalizers and cleaners](
+src/main/java/learn/effjava/p02createdestroy/item008cleaners)
